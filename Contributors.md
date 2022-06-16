@@ -3932,6 +3932,7 @@ Himanshu Dedha
 - [George Kakavas](https://github.com/george-kakavas)
 - [George Yang](https://github.com/yzchaogmail)
 - [Gerard Gandionco](https://github.com/Vaiterius)
+- [Elad Ohana](https://github.com/eladohana)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
 - [Omar Ashraf](https://github.com/SpadeQ22)
